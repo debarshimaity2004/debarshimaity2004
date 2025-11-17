@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-![Profile Views](https://komarev.com/ghpvc/?username=Khizer08&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=debarshimaity2004&label=Profile%20views&color=0e75b6&style=flat)
 
 <p align="center">
   <!-- Custom coding gif/banner (replace with your own later if you want) -->
