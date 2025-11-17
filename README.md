@@ -33,7 +33,7 @@
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedkhizer08/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debarshi-maity-08130b325/)
 
 
 ---
@@ -61,16 +61,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khizer08&theme=highcontrast&show_icons=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=debarshimaity2004&theme=highcontrast&show_icons=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Khizer08&theme=highcontrast&hide_border=false" />
+<img src="https://streak-stats.demolab.com?user=debarshimaity2004&theme=highcontrast&hide_border=false" />
 </p>
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khizer08&theme=highcontrast&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debarshimaity2004&theme=highcontrast&layout=compact" alt="Top Languages" />
 </p>
 
 ---
