@@ -3,65 +3,65 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=debarshimaity2004&label=Profile%20views&color=0e75b6&style=flat)
 
 <p align="center">
-  <!-- Custom coding gif/banner (replace with your own later if you want) -->
-  <img alt="coding" height="250" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/rocket.gif"/>
+    <img alt="coding" height="250" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/rocket.gif"/>
 </p>
 
 <p align="center">
-  <!-- Typing animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00C4FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Debarshi+Maity;Aspiring+Full+Stack+Developer;+ML+Enthusiast;+Always+Learning,+Always+Building!" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00C4FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Debarshi+Maity;Aspiring+Software+Development+Engineer+(SDE);Full+Stack+Enthusiast+%26+Problem+Solver!" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 
+👋 Hey there! I'm **Debarshi Maity** — a motivated 3rd-year **Information Science Engineering student** aspiring to an SDE role.
+My focus is on mastering **Full-Stack Web Development** and strengthening my foundation in **Data Structures and Algorithms (DSA)**.
 
-👋 Hey there! I'm **Debarshi Maity** — a passionate learner and full-stack enthusiast.  
+💻 Currently building scalable solutions using modern frameworks and driven by the ambition to turn complex problems into efficient software.
 
-🎓 Engineering student on a journey to master **Full Stack Web Development**.  
+🌟 Dedicated to continuous learning, from core CS subjects to the latest in Machine Learning (ML).
 
-💻 Currently building my skills in frontend & backend, with plans to dive into **Data Science** and **Machine Learning** in the future.
+📬 Reach out: **debarshimaity14@gmail.com**
 
-🌟 Driven by curiosity, creativity, and the ambition to turn ideas into impactful products.  
-
-📬 Reach out: **debarshimaity14@gmail.com**  
-
-  
-
-<h3 align="center"> ✦✦✦ Passionate Full-Stack Developer & ML Enthusiast ✦✦✦ </h3>
+<h3 align="center"> ✦✦✦ Aspiring SDE | Full-Stack Developer & Problem Solver ✦✦✦ </h3>
 
 ---
 
-## 🌐 Connect with Me  
+## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debarshi-maity-08130b325/)
-
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4636?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/suraj_99887)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/XXnP3Oicx8/)
 
 ---
 
-## 💻 Tech Stack
+## 💻 Technical Stack
 
+| Category | Key Technologies |
+| :--- | :--- |
+| **Languages** | Python, Java, JavaScript, C++, C, HTML, CSS |
+| **Backend/Runtime** | Node.js, Express.js |
+| **Frontend/UI** | Bootstrap, TailwindCSS |
+| **Databases** | MongoDB, MySQL, PostgreSQL |
+| **Tools & Versioning** | Git, Docker |
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-1D63ED?style=flat&logo=docker&logoColor=white)
-  
+---
+
+## 🧠 Problem Solving & Core CS
+
+I actively practice Data Structures and Algorithms (DSA) to enhance my analytical capabilities.
+
+* \
+    \
+    **Problem Count:** Solved over **200+ problems** across competitive platforms (LeetCode, Codeforces).
+* \
+    \
+    **Relevant Coursework:** DBMS, Computer Networks (CN), Operating Systems (OS), OOPs, Machine Learning (ML).
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=debarshimaity2004&theme=highcontrast&show_icons=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=debarshimaity2004&theme=highcontrast&show_icons=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -70,11 +70,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debarshimaity2004&theme=highcontrast&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debarshimaity2004&theme=highcontrast&layout=compact" alt="Top Languages" />
 </p>
 
 ---
-
-
-
-
