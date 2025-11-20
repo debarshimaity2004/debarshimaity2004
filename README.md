@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00C4FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Debarshi+Maity;Aspiring+Software+Development+Engineer+(SDE);Full+Stack+Enthusiast+%26+Problem+Solver!" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00C4FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Debarshi+Maity;Aspiring+Software+Dev+Engineer+(SDE);Full+Stack+Enthusiast+%26+Problem+Solver!" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
