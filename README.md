@@ -29,7 +29,7 @@ My focus is on mastering **Full-Stack Web Development** and strengthening my fou
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debarshi-maity-08130b325/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/suraj99887)
-[![LeetCode](https://img-shields.io/badge/LeetCode-000000?style=flat&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/XXnP3Oicx8/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/XXnP3Oicx8/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=flat&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/debarshimaity14)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4636?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/suraj_99887)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2980b9?style=flat&logo=geeksforgeeks&logoColor=green)](https://www.geeksforgeeks.org/user/debarshic6p1/)
