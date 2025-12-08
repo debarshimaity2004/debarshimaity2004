@@ -70,12 +70,12 @@ I actively practice Data Structures and Algorithms (DSA) to enhance my analytica
   />
 </p>
 <!-- Streak Tracker -->
-<p>
+<p align="center">
   <img align="center" src="https://git-hub-streak-stats.vercel.app/?user=debarshimaity2004&theme=highcontrast&hide_border=false" alt="Debarshi's GitHub Streak" />
 </p>
 
 <!-- Top Languages -->
-<p>
+<p align="center">
   <img align="center" 
        src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=debarshimaity2004&theme=highcontrast&hide_border=false&layout=compact" 
        alt="Top Languages" 
