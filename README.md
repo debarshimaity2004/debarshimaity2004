@@ -64,16 +64,22 @@ I actively practice Data Structures and Algorithms (DSA) to enhance my analytica
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=debarshimaity2004&theme=highcontrast&show_icons=true&count_private=true" alt="GitHub Stats" />
+  <img 
+       src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=debarshimaity2004&theme=highcontrast&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&locale=en"
+       alt="Debarshi's GitHub stats"
+  />
+</p>
+<!-- Streak Tracker -->
+<p>
+  <img align="center" src="https://git-hub-streak-stats.vercel.app/?user=debarshimaity2004&theme=highcontrast&hide_border=false" alt="Debarshi's GitHub Streak" />
 </p>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=debarshimaity2004&theme=highcontrast&hide_border=false" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debarshimaity2004&theme=highcontrast&layout=compact" alt="Top Languages" />
+<!-- Top Languages -->
+<p>
+  <img align="center" 
+       src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=debarshimaity2004&theme=highcontrast&hide_border=false&layout=compact" 
+       alt="Top Languages" 
+  />
 </p>
 
 ---
