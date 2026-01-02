@@ -64,22 +64,11 @@ I actively practice Data Structures and Algorithms (DSA) to enhance my analytica
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-       src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=debarshimaity2004&theme=highcontrast&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&locale=en"
-       alt="Debarshi's GitHub stats"
-  />
-</p>
-<!-- Streak Tracker -->
-<p align="center">
-  <img align="center" src="https://git-hub-streak-stats.vercel.app/?user=debarshimaity2004&theme=highcontrast&hide_border=false" alt="Debarshi's GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=debarshimaity2004&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- Top Languages -->
 <p align="center">
-  <img align="center" 
-       src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=debarshimaity2004&theme=highcontrast&hide_border=false&layout=compact" 
-       alt="Top Languages" 
-  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=debarshimaity2004&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
