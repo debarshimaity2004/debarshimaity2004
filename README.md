@@ -53,10 +53,8 @@ My focus is on mastering **Full-Stack Web Development** and strengthening my fou
 I actively practice Data Structures and Algorithms (DSA) to enhance my analytical capabilities.
 
 * \
-    \
-    **Problem Count:** Solved over **200+ problems** across competitive platforms (LeetCode, Codeforces).
+    **Problem Count:** Solved over **400+ problems** across competitive platforms (LeetCode, Codeforces).
 * \
-    \
     **Relevant Coursework:** DBMS, Computer Networks (CN), Operating Systems (OS), OOPs, Machine Learning (ML).
 
 ---
